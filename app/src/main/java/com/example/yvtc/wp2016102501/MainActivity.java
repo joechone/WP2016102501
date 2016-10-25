@@ -20,6 +20,7 @@ Button btn2;
             }
         });
     }
+
     public void click1(View v)
     {
         Log.d("MYLOG", "This is click1");
